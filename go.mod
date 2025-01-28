@@ -1,4 +1,4 @@
-module github.com/your-repo/go-rest-api
+module github.com/OlegacyGold/test
 
 go 1.17
 

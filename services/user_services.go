@@ -1,8 +1,8 @@
 package services
 
 import (
-	"../models"
-	"../storage"
+	"github.com/OlegacyGold/test/models"
+	"github.com/OlegacyGold/test/storage"
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
 	_ "github.com/lib/pq"

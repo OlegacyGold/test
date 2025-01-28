@@ -1,8 +1,8 @@
 package storage
 
 import (
-	"../models"
 	"fmt"
+	"github.com/OlegacyGold/test/models"
 	"github.com/jinzhu/gorm"
 	_ "github.com/lib/pq"
 	"log"

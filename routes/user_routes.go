@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"../services"
+	"github.com/OlegacyGold/test/services"
 	"github.com/gin-gonic/gin"
 )
 

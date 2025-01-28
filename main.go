@@ -1,7 +1,7 @@
 package main
 
 import (
-	"./routes"
+	"github.com/OlegacyGold/test/routes"
 	"github.com/gin-gonic/gin"
 )
 
