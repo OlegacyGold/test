@@ -1,7 +1,7 @@
 package tests
 
 import (
-	"../services"
+	"github.com/OlegacyGold/test/services"
 	"github.com/gin-gonic/gin"
 	"github.com/stretchr/testify/assert"
 	"net/http"
